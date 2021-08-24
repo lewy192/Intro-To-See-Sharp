@@ -1,0 +1,16 @@
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\bin\Debug\net5.0\Hello-World.exe
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\bin\Debug\net5.0\Hello-World.deps.json
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\bin\Debug\net5.0\Hello-World.runtimeconfig.json
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\bin\Debug\net5.0\Hello-World.runtimeconfig.dev.json
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\bin\Debug\net5.0\Hello-World.dll
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\bin\Debug\net5.0\ref\Hello-World.dll
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\bin\Debug\net5.0\Hello-World.pdb
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\obj\Debug\net5.0\Hello-World.csproj.AssemblyReference.cache
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\obj\Debug\net5.0\Hello-World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\obj\Debug\net5.0\Hello-World.AssemblyInfoInputs.cache
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\obj\Debug\net5.0\Hello-World.AssemblyInfo.cs
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\obj\Debug\net5.0\Hello-World.csproj.CoreCompileInputs.cache
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\obj\Debug\net5.0\Hello-World.dll
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\obj\Debug\net5.0\ref\Hello-World.dll
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\obj\Debug\net5.0\Hello-World.pdb
+C:\Users\lewy1\Desktop\C#\Learning Material\Intro-To-See-Sharp\Hello-World\obj\Debug\net5.0\Hello-World.genruntimeconfig.cache
